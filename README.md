@@ -28,14 +28,12 @@ This system helps in improving accuracy, transparency, and efficiency in dairy b
 
 ###  Billing System
 - Automatic monthly bill generation for farmers
-- Calculates total milk supplied per farmer
 - Generates payment based on rate and fat value
 
 ---
 
 ###  Buyer Management
 - Add and manage buyer (customer) details
-- Maintain buyer transaction history
 - Track milk purchases by each buyer
 
 ---
@@ -50,8 +48,6 @@ This system helps in improving accuracy, transparency, and efficiency in dairy b
 
 ###  Profit & Loss Report
 - Monthly financial analysis:
-  - Total milk purchased from farmers
-  - Total milk sold to buyers
   - Overall profit or loss calculation
 - Generates downloadable **PDF report**
 
