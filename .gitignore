@@ -1,0 +1,15 @@
+dl/*
+!dl/src/
+!dl/src/**
+
+bl/*
+!bl/src/
+!bl/src/**
+
+pl/*
+!pl/src/
+!pl/src/**
+
+common/*
+Images/*
+!Images/**
